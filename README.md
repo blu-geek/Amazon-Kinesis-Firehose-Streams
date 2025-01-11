@@ -1,4 +1,4 @@
-# Project 6
+
 
 # Data Transfer to S3 Bucket with Amazon Kinesis Data Firehose 
 
